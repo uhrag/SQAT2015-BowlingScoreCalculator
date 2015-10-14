@@ -63,3 +63,20 @@ RefactoringAction 1444828452057 TestBowlingScoreCalculator.java ADD import org.u
 EditAction 1444828502301 Frame.java 814 6 8 0
 EditAction 1444828505777 TestBowlingScoreCalculator.java 538 2 3 1
 EditAction 1444828509223 BowlingGame.java 620 5 2 0
+CompilationAction 1444828512773 TestBowlingScoreCalculator.java
+CompilationAction 1444828512775 TestBowlingScoreCalculator.java
+RefactoringAction 1444828858189 TestBowlingScoreCalculator.java REMOVE testSingleFrameScore() METHOD
+RefactoringAction 1444828867716 TestBowlingScoreCalculator.java ADD void testSingleFrameScore() METHOD
+RefactoringAction 1444828880761 TestBowlingScoreCalculator.java RENAME testSingleFrameScore()=>void testi() METHOD
+RefactoringAction 1444828882774 TestBowlingScoreCalculator.java RENAME testi()=>void testis() METHOD
+RefactoringAction 1444828884790 TestBowlingScoreCalculator.java RENAME testis()=>void testIs() METHOD
+RefactoringAction 1444828886303 TestBowlingScoreCalculator.java RENAME testIs()=>void testIsStrike() METHOD
+RefactoringAction 1444829048767 Frame.java REMOVE getFirstThrow() METHOD
+RefactoringAction 1444829048769 Frame.java REMOVE setFirstThrow(int) METHOD
+CompilationAction 1444829115420 TestBowlingScoreCalculator.java
+CompilationAction 1444829115421 TestBowlingScoreCalculator.java
+UnitTestCaseAction 1444829115906 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444829115907 TestBowlingScoreCalculator OK
+EditAction 1444829219856 TestBowlingScoreCalculator.java 675 2 2 0
+RefactoringAction 1444829220584 Frame.java REMOVE getFirstThrow() METHOD
+RefactoringAction 1444829220585 Frame.java REMOVE setFirstThrow(int) METHOD

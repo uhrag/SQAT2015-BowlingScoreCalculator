@@ -18,17 +18,24 @@ public class TestBowlingScoreCalculator {
 		tFrame = new Frame(0, 0);
 	}
 	
+	/*
 	@Test
 	public void testSingleFrameScore() {
-		//
-		
 		//act
-		tFrame.addFrame(4,6);
+		tFrame.addFrame(tFrame);
 		
 		//assert
 		assertEquals(10,tFrame(score));
 	}
+	*/
 	
+	@Test
+	public void testIsStrike() {
+		//act
+		if(tFrame.firstThrow >= 10)
+		//assert
+		assertEquals(10,tFrame.firstThrow);
+	}
 	
 
 }
