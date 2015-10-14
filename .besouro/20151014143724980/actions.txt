@@ -7,3 +7,14 @@ RefactoringAction 1444823296951 TestBowlingScoreCalculator.java RENAME testrScor
 RefactoringAction 1444823689140 TestBowlingScoreCalculator.java RENAME testScore()=>void testFrameScore() METHOD
 EditAction 1444823803552 TestBowlingScoreCalculator.java 282 1 2 1
 EditAction 1444823806779 BowlingGame.java 542 5 2 0
+UnitTestCaseAction 1444823811144 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444823811147 TestBowlingScoreCalculator OK
+RefactoringAction 1444824099623 TestBowlingScoreCalculator.java ADD void testFrameScore()/2 METHOD
+RefactoringAction 1444824115638 TestBowlingScoreCalculator.java RENAME testFrameScore()/2=>void testFrameHas() METHOD
+RefactoringAction 1444824119153 TestBowlingScoreCalculator.java RENAME testFrameHas()=>void testFrame() METHOD
+RefactoringAction 1444824123169 TestBowlingScoreCalculator.java RENAME testFrame()=>void testFrames() METHOD
+RefactoringAction 1444824127683 TestBowlingScoreCalculator.java RENAME testFrames()=>void testFrameHas() METHOD
+RefactoringAction 1444824135381 TestBowlingScoreCalculator.java RENAME testFrameHas()=>void testFrameHas10Frames() METHOD
+RefactoringAction 1444824258405 TestBowlingScoreCalculator.java RENAME testFrameHas10Frames()=>void testTotal() METHOD
+RefactoringAction 1444824260920 TestBowlingScoreCalculator.java RENAME testTotal()=>void testTotalFrameScore() METHOD
+EditAction 1444824703642 TestBowlingScoreCalculator.java 410 2 4 2

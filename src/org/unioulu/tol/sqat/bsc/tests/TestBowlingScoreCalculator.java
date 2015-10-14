@@ -16,6 +16,16 @@ public class TestBowlingScoreCalculator {
 		assertEquals(0,score);
 	}
 	
+	@Test
+	public void testTotalFrameScore() {
+		//
+		int score = 0;
+		//act
+		
+		//assert
+		assertEquals(5,score);
+	}
+	
 	
 
 }
