@@ -110,3 +110,6 @@ EditAction 1444829721900 Frame.java 1185 10 12 0
 UnitTestCaseAction 1444829729153 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444829729154 TestBowlingScoreCalculator OK
 EditAction 1444829964646 TestBowlingScoreCalculator.java 670 2 2 0
+UnitTestCaseAction 1444829968310 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444829968311 TestBowlingScoreCalculator OK
+EditAction 1444829983450 TestBowlingScoreCalculator.java 670 2 2 0

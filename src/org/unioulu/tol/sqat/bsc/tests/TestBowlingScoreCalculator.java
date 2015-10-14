@@ -32,7 +32,7 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testIsStrike() {
 		//act
-		if(tFrame.getFirstThrow() >= 10)
+		if(tFrame.getFirstThrow() <= 10)
 		//assert
 		assertEquals(true,false);
 	}
