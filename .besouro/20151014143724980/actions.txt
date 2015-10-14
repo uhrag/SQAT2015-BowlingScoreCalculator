@@ -18,3 +18,4 @@ RefactoringAction 1444824135381 TestBowlingScoreCalculator.java RENAME testFrame
 RefactoringAction 1444824258405 TestBowlingScoreCalculator.java RENAME testFrameHas10Frames()=>void testTotal() METHOD
 RefactoringAction 1444824260920 TestBowlingScoreCalculator.java RENAME testTotal()=>void testTotalFrameScore() METHOD
 EditAction 1444824703642 TestBowlingScoreCalculator.java 410 2 4 2
+EditAction 1444824706634 BowlingGame.java 674 5 7 0
