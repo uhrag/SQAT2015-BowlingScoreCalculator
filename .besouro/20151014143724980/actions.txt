@@ -25,3 +25,39 @@ EditAction 1444824723418 BowlingGame.java 674 5 7 0
 UnitTestCaseAction 1444824726592 TestBowlingScoreCalculator.java FAIL
 UnitTestSessionAction 1444824726593 TestBowlingScoreCalculator FAIL
 EditAction 1444824740898 BowlingGame.java 678 5 7 0
+UnitTestCaseAction 1444824744129 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444824744130 TestBowlingScoreCalculator FAIL
+RefactoringAction 1444825578103 TestBowlingScoreCalculator.java ADD void testTotalFrameScore()/2 METHOD
+RefactoringAction 1444825582144 TestBowlingScoreCalculator.java REMOVE testTotalFrameScore()/2 METHOD
+RefactoringAction 1444825594676 TestBowlingScoreCalculator.java RENAME testTotalFrameScore()=>void testTotalFrames() METHOD
+RefactoringAction 1444825617243 TestBowlingScoreCalculator.java REMOVE testTotalFrames() METHOD
+RefactoringAction 1444825619262 TestBowlingScoreCalculator.java ADD void testTotalFrameScore() METHOD
+FileOpenedAction 1444826110648 Frame.java 794 6 7 0
+RefactoringAction 1444826110892 Frame.java ADD Frame() METHOD
+RefactoringAction 1444826128159 Frame.java REMOVE Frame() METHOD
+RefactoringAction 1444826350709 TestBowlingScoreCalculator.java RENAME testTotalFrameScore()=>void testFrame() METHOD
+RefactoringAction 1444826353223 TestBowlingScoreCalculator.java RENAME testFrame()=>void test() METHOD
+RefactoringAction 1444826359738 TestBowlingScoreCalculator.java RENAME test()=>void testFirstFramescore() METHOD
+RefactoringAction 1444826361251 TestBowlingScoreCalculator.java RENAME testFirstFramescore()=>void testFirstFrameScore() METHOD
+RefactoringAction 1444826370765 TestBowlingScoreCalculator.java RENAME testFirstFrameScore()=>void testsingleFrameScore() METHOD
+RefactoringAction 1444826373280 TestBowlingScoreCalculator.java RENAME testsingleFrameScore()=>void testSingleFrameScore() METHOD
+RefactoringAction 1444826771498 TestBowlingScoreCalculator.java ADD void init() METHOD
+RefactoringAction 1444826783031 TestBowlingScoreCalculator.java ADD import org.junit.Before IMPORT
+RefactoringAction 1444826870895 TestBowlingScoreCalculator.java ADD BowlingGame sqatBowlingGame FIELD
+RefactoringAction 1444826880949 TestBowlingScoreCalculator.java RENAME sqatBowlingGame=>BowlingGame TBowlingGame FIELD
+RefactoringAction 1444826882465 TestBowlingScoreCalculator.java ADD Frame tFrame FIELD
+RefactoringAction 1444827151645 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.BowlingGame IMPORT
+RefactoringAction 1444827154854 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.Frame IMPORT
+RefactoringAction 1444827418865 TestBowlingScoreCalculator.java REMOVE testFrameScore() METHOD
+RefactoringAction 1444827436393 TestBowlingScoreCalculator.java REMOVE TBowlingGame FIELD
+RefactoringAction 1444827443908 TestBowlingScoreCalculator.java REMOVE import org.unioulu.tol.sqat.bsc.BowlingGame IMPORT
+RefactoringAction 1444827586795 Frame.java ADD int pins FIELD
+RefactoringAction 1444827608811 Frame.java RENAME pins=>int total FIELD
+RefactoringAction 1444827612826 Frame.java RENAME total=>int pins FIELD
+RefactoringAction 1444827737877 Frame.java REMOVE pins FIELD
+RefactoringAction 1444827950994 TestBowlingScoreCalculator.java RENAME init()=>void setup() METHOD
+RefactoringAction 1444828403353 Frame.java ADD void add(int, int) METHOD
+RefactoringAction 1444828411551 Frame.java REMOVE add(int, int) METHOD
+RefactoringAction 1444828446191 TestBowlingScoreCalculator.java ADD BowlingGame tBowlingGame FIELD
+RefactoringAction 1444828452057 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.BowlingGame IMPORT
+EditAction 1444828502301 Frame.java 814 6 8 0

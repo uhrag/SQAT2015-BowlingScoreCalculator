@@ -11,7 +11,7 @@ public class Frame {
 	
 	//the score of a single frame
 	public int score(){
-		//to be implemented
+		int score = firstThrow + secondThrow;
 		return 0;
 	}
 
@@ -38,4 +38,5 @@ public class Frame {
 		//to be implemented
 		return 0;
 	}
+
 }
