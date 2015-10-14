@@ -37,5 +37,12 @@ public class TestBowlingScoreCalculator {
 		assertEquals(true,false);
 	}
 	
+	@Test
+	public void testIsSpare() {
+		//act
+		if(tFrame.getFirstThrow() + tFrame.getSecondThrow() >= 10)
+		//assert
+		assertEquals(true,false);
+	}
 
 }

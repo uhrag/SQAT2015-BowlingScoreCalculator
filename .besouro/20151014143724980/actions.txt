@@ -119,3 +119,4 @@ EditAction 1444829999598 TestBowlingScoreCalculator.java 670 2 2 0
 RefactoringAction 1444830021591 TestBowlingScoreCalculator.java ADD void testIsStrike()/2 METHOD
 RefactoringAction 1444830025106 TestBowlingScoreCalculator.java RENAME testIsStrike()/2=>void testIsSpare() METHOD
 EditAction 1444830076068 Frame.java 1197 10 12 0
+EditAction 1444830079368 TestBowlingScoreCalculator.java 824 3 3 0
