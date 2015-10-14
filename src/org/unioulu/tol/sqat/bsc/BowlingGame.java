@@ -25,7 +25,7 @@ public class BowlingGame {
 		
 		score = score + firstThrow + secondThrow;
 		
-		return 0;
+		return score;
 	}
 	
 	public boolean isNextFrameBonus(){
