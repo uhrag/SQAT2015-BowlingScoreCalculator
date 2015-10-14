@@ -1,0 +1,8 @@
+FileOpenedAction 1444822645314 BowlingGame.java 584 5 2 0
+FileOpenedAction 1444823009827 TestBowlingScoreCalculator.java 223 1 1 0
+RefactoringAction 1444823130890 TestBowlingScoreCalculator.java RENAME test()=>void testScore() METHOD
+RefactoringAction 1444823149908 TestBowlingScoreCalculator.java RENAME testScore()=>void testPlayerScore() METHOD
+RefactoringAction 1444823294432 TestBowlingScoreCalculator.java RENAME testPlayerScore()=>void testrScore() METHOD
+RefactoringAction 1444823296951 TestBowlingScoreCalculator.java RENAME testrScore()=>void testScore() METHOD
+RefactoringAction 1444823689140 TestBowlingScoreCalculator.java RENAME testScore()=>void testFrameScore() METHOD
+EditAction 1444823803552 TestBowlingScoreCalculator.java 282 1 2 1

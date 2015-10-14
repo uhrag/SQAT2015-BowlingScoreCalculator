@@ -7,8 +7,15 @@ import org.junit.Test;
 public class TestBowlingScoreCalculator {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void testFrameScore() {
+		//
+		int score = 0;
+		//act
+		
+		//assert
+		assertEquals(0,score);
 	}
+	
+	
 
 }
