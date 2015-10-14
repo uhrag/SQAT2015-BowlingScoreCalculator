@@ -120,3 +120,5 @@ RefactoringAction 1444830021591 TestBowlingScoreCalculator.java ADD void testIsS
 RefactoringAction 1444830025106 TestBowlingScoreCalculator.java RENAME testIsStrike()/2=>void testIsSpare() METHOD
 EditAction 1444830076068 Frame.java 1197 10 12 0
 EditAction 1444830079368 TestBowlingScoreCalculator.java 824 3 3 0
+UnitTestCaseAction 1444830083037 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444830083038 TestBowlingScoreCalculator OK
