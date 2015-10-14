@@ -34,7 +34,7 @@ public class TestBowlingScoreCalculator {
 		//act
 		if(tFrame.getFirstThrow() >= 10)
 		//assert
-		assertEquals(10,tFrame.getFirstThrow());
+		assertEquals(true,false);
 	}
 	
 
