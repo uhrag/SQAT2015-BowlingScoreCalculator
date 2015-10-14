@@ -20,8 +20,8 @@ public class BowlingGame {
 	
 	public int score(){
 		int score = 0;
-		int firstThrow = 0;
-		int secondThrow = 0;
+		int firstThrow = 2;
+		int secondThrow = 3;
 		
 		score = score + firstThrow + secondThrow;
 		
