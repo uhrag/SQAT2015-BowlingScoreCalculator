@@ -11,11 +11,9 @@ public class BowlingGame {
 	public BowlingGame(){}
 	
 	public void addFrame(Frame frame){
-		/*
-		for (int i = 0; i < 9; i++){	
-		frames.add(new Frame());
-		}
-		*/
+		//for (int i = 0; i < 9; i++){	
+		frames.add(new Frame(4,5));
+		//}
 	}
 	
 	public void setBonus(int firstThrow, int secondThrow) {
