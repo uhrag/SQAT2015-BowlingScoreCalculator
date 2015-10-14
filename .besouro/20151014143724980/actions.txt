@@ -80,3 +80,20 @@ UnitTestSessionAction 1444829115907 TestBowlingScoreCalculator OK
 EditAction 1444829219856 TestBowlingScoreCalculator.java 675 2 2 0
 RefactoringAction 1444829220584 Frame.java REMOVE getFirstThrow() METHOD
 RefactoringAction 1444829220585 Frame.java REMOVE setFirstThrow(int) METHOD
+CompilationAction 1444829223238 TestBowlingScoreCalculator.java
+RefactoringAction 1444829453779 Frame.java REMOVE getFirstThrow() METHOD
+RefactoringAction 1444829453781 Frame.java REMOVE setFirstThrow(int) METHOD
+RefactoringAction 1444829503324 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444829503325 Frame.java ADD void setFirstThrow(int) METHOD
+RefactoringAction 1444829503326 Frame.java ADD int getSecondThrow() METHOD
+RefactoringAction 1444829503327 Frame.java ADD void setSecondThrow(int) METHOD
+RefactoringAction 1444829543355 Frame.java REMOVE getSecondThrow() METHOD
+RefactoringAction 1444829543356 Frame.java REMOVE getFirstThrow() METHOD
+RefactoringAction 1444829543358 Frame.java REMOVE setSecondThrow(int) METHOD
+RefactoringAction 1444829543359 Frame.java REMOVE setFirstThrow(int) METHOD
+RefactoringAction 1444829548398 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444829548399 Frame.java ADD void setFirstThrow(int) METHOD
+RefactoringAction 1444829548400 Frame.java ADD int getSecondThrow() METHOD
+RefactoringAction 1444829548401 Frame.java ADD void setSecondThrow(int) METHOD
+CompilationAction 1444829563411 TestBowlingScoreCalculator.java
+EditAction 1444829563984 TestBowlingScoreCalculator.java 685 2 2 0

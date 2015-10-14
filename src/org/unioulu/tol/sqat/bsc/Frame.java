@@ -8,7 +8,7 @@ public class Frame {
 		this.firstThrow = firstThrow;
 		this.secondThrow = secondThrow;
 	}
-	
+
 	//the score of a single frame
 	public int score(){
 		int score = firstThrow + secondThrow;
@@ -38,5 +38,23 @@ public class Frame {
 		//to be implemented
 		return 0;
 	}
+	
+	public int getFirstThrow() {
+		return firstThrow;
+	}
+
+	public void setFirstThrow(int firstThrow) {
+		this.firstThrow = firstThrow;
+	}
+
+	public int getSecondThrow() {
+		return secondThrow;
+	}
+
+	public void setSecondThrow(int secondThrow) {
+		this.secondThrow = secondThrow;
+	}
+	
+	
 
 }
